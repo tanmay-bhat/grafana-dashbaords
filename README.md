@@ -9,4 +9,6 @@
    - Scrape duration
    - Samples scraped per job
 
+## Importing
 
+- You can Go to your Grafana endpoint, click on *import* button and paste the JSON file to get started..
